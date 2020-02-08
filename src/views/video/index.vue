@@ -1,5 +1,6 @@
 <template>
-  <div class="video-container">视频</div>
+  <div class="video-container">
+    <p>模块正在开发中,,,,</p></div>
 </template>
 
 <script>
@@ -18,4 +19,13 @@ export default {
 }
 </script>
 
-<style scoped></style>
+<style scoped lang='less'>
+    .qa-container{
+
+     p{
+        font-weight: 700;
+        color: red;
+     }
+
+    }
+</style>

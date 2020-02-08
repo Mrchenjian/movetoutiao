@@ -1,6 +1,6 @@
 <template>
   <div class="qa-container">
-        <span>模块正在开发中，，</span>
+          <p>模块正在开发中,,,,</p>
   </div>
 </template>
 
@@ -22,13 +22,11 @@ export default {
 
 <style scoped lang='less'>
     .qa-container{
-      height: 100vh;
-      span{
-            line-height: 100vh;
-            text-align: center;
-            font-size: 700;
-            color: red;
 
-      }
+     p{
+        font-weight: 700;
+        color: red;
+     }
+
     }
 </style>
