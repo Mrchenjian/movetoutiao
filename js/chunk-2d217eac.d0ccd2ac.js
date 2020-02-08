@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d217eac"],{c988:function(n,t,e){"use strict";e.r(t);var c=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"qa-container"},[n._v("此版块正在开发中。。。。")])},a=[],o={name:"QaPage",components:{},props:{},data:function(){return{}},computed:{},watch:{},created:function(){},mounted:function(){},methods:{}},u=o,s=e("2877"),r=Object(s["a"])(u,c,a,!1,null,"23d3cdac",null);t["default"]=r.exports}}]);
-//# sourceMappingURL=chunk-2d217eac.d0ccd2ac.js.map
