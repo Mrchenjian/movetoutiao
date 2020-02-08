@@ -63,7 +63,7 @@
 </template>
 
 <script>
-import { login, getSmsCode } from '@/api/user'
+import { login } from '@/api/user'
 import { validate } from 'vee-validate'
 
 export default {
