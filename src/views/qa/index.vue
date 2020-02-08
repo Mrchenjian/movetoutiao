@@ -1,5 +1,5 @@
 <template>
-  <div class="qa-container">问答</div>
+  <div class="qa-container">此版块正在开发中。。。。</div>
 </template>
 
 <script>
