@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c9a8a"],{"59a1":function(n,e,t){"use strict";t.r(e);var o=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("用户粉丝")])},c=[],a={name:"UserFollowing",components:{},props:{},data:function(){return{}},computed:{},watch:{},created:function(){},mounted:function(){},methods:{}},u=a,r=t("2877"),s=Object(r["a"])(u,o,c,!1,null,"7afe43b1",null);e["default"]=s.exports}}]);
-//# sourceMappingURL=chunk-2d0c9a8a.93e9e715.js.map
