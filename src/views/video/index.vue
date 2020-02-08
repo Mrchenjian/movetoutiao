@@ -20,7 +20,7 @@ export default {
 </script>
 
 <style scoped lang='less'>
-    .qa-container{
+    .video-container{
 
      p{
         font-weight: 700;
