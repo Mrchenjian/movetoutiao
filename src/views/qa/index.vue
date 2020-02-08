@@ -1,5 +1,7 @@
 <template>
-  <div class="qa-container">此版块正在开发中。。。。</div>
+  <div class="qa-container">
+        <span>模块正在开发中，，</span>
+  </div>
 </template>
 
 <script>
@@ -18,4 +20,15 @@ export default {
 }
 </script>
 
-<style scoped></style>
+<style scoped lang='less'>
+    .qa-container{
+      height: 100vh;
+      span{
+            line-height: 100vh;
+            text-align: center;
+            font-size: 700;
+            color: red;
+
+      }
+    }
+</style>
